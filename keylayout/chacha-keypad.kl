@@ -5,6 +5,8 @@ key 102   HOME
 key 139   MENU
 key 68    FUNC_1            WAKE_DROPPED
 
+key 15    TAB
+
 key 30    A
 
 # column 0
@@ -13,8 +15,8 @@ key 25    P
 key 38    L
 key 44    Z
 key 46    C
-key 231   CALL	            WAKE_DROPPED
-
+key 231   CALL
+key 204   QUESTION
 # column 1
 key 31    S
 key 56    ALT_LEFT
@@ -44,7 +46,7 @@ key 115   VOLUME_UP         WAKE
 key 184   HTC_SHARE
 key 42    SHIFT_LEFT
 key 37    K
-key 15    TAB
+key 185   FUNC_3
 key 24    O
 key 105   DPAD_LEFT
 key 114   VOLUME_DOWN       WAKE
@@ -79,6 +81,17 @@ key 8     7
 key 9     8
 key 10    9
 key 11    0
+
+
+
+#FUNC_1 SYM
+#FUNC_2 HTC_SHARE
+#FUNC_3 
+
+
+
+
+
 
 # not use in vison
 # key 12    MINUS             WAKE_DROPPED
